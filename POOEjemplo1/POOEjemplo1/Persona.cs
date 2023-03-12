@@ -20,12 +20,7 @@ namespace POOEjemplo1
         {
             this.nombre = "";
             this.apellido = "";
-        }
-
-        public Persona(String pNom)
-        {
-            this.nombre = pNom;
-        }
+        }      
 
         public Persona(String pNom, String pApe)
         {
